@@ -4,13 +4,11 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Git eğitimi sonunda oluşturduğum ilk rep
 ![alt text](image.png)
 
 ## Installation
-Öncelikle projeyi klonlayın(Buraya reponuzdan aldığnız link gelecek)
-
+Öncelikle projeyi klonlayın(Buraya reponuzdan aldığnız link gelecek)  
 `git clone https://github.com/eneskoseoglu26/kodluyoruzilkrepo.git`
 
 ## Usage
-Projeyi klonladıktan sonra Visual Studio Code programından açınız.
-
+Projeyi klonladıktan sonra Visual Studio Code programından açınız.  
 Linux için:
 
 ```
